@@ -1,25 +1,10 @@
 ﻿{
 	"name": "Doctor’s Good Will",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"info": {
 		"date": "2020-07-17",
 		"title": "%DATE% ソフトウェア更新",
 		"message": "このバージョンでは若干の不具合が修正され、全体のパフォーマンスが向上しています。\r\r詳細は%URL%をご覧ください。",
 		"url": "https://github.com/atelierMOMO/dgw-app",
-		"server": {
-			"name": "server.dmg",
-			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.0/server.dmg",
-			"size": 189284043
-		},
-		"client": {
-			"name": "client.dmg",
-			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.0/client.dmg",
-			"size": 171271123
-		},
-		"single": {
-			"name": "single.dmg",
-			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.0/single.dmg",
-			"size": 193590535
-		}
 	}
 }
