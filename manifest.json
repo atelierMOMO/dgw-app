@@ -8,8 +8,8 @@
 		"url": "https://github.com/atelierMOMO/dgw-app",
 		"single": {
 			"name": "single.dmg",
-			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.4/single.dmg",
-			"size": 294733788
+			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.5/single.dmg",
+			"size": 302064623
 		},
 		"server": {
 			"name": "server.dmg",
