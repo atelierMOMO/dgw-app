@@ -15,6 +15,11 @@
 			"name": "server.dmg",
 			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.3/server.dmg",
 			"size": 191544633
+		},
+		"client": {
+			"name": "client.dmg",
+			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.3/client.dmg",
+			"size": 171304673
 		}
 	}
 }
