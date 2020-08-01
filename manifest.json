@@ -18,8 +18,8 @@
 		},
 		"client": {
 			"name": "client.dmg",
-			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.5/client.dmg",
-			"size": 170387573
+			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.6/client.dmg",
+			"size": 169690078
 		}
 	}
 }
