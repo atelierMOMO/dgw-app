@@ -1,6 +1,6 @@
 ﻿{
 	"name": "Doctor’s Good Will",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"info": {
 		"date": "2020-08-01",
 		"title": "%DATE% ソフトウェア更新",
@@ -18,8 +18,8 @@
 		},
 		"client": {
 			"name": "client.dmg",
-			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.6/client.dmg",
-			"size": 169690078
+			"download_url": "https://github.com/atelierMOMO/dgw-app/releases/download/0.0.7/client.dmg",
+			"size": 170224572
 		}
 	}
 }
